@@ -35,7 +35,7 @@ TG_BOT_WORKERS = int(os.environ.get("TG_BOT_WORKERS", "4"))
 START_PIC = os.environ.get("START_PIC", "https://graph.org/file/e8e25e73d7a1ee6dfba98.jpg")
 FORCE_PIC = os.environ.get("FORCE_PIC", "https://graph.org/file/e8e25e73d7a1ee6dfba98.jpg")
 
-HELP_TXT = "<b>ᴛʜɪs ɪs ᴀɴ ғɪʟᴇ ᴛᴏ ʟɪɴᴋ ʙᴏᴛ ᴡᴏʀᴋ ғᴏʀ @Anime_Flix_Network\n\n❏ ʙᴏᴛ ᴄᴏᴍᴍᴀɴᴅs\n├/start : sᴛᴀʀᴛ ᴛʜᴇ ʙᴏᴛ\n├/about : ᴏᴜʀ Iɴғᴏʀᴍᴀᴛɪᴏɴ\n└/help : ʜᴇʟᴘ ʀᴇʟᴀᴛᴇᴅ ʙᴏᴛ\n\n sɪᴍᴘʟʏ ᴄʟɪᴄᴋ ᴏɴ ʟɪɴᴋ ᴀɴᴅ sᴛᴀʀᴛ ᴛʜᴇ ʙᴏᴛ ᴊᴏɪɴ ʙᴏᴛʜ ᴄʜᴀɴɴᴇʟs ᴀɴᴅ ᴛʀʏ ᴀɢᴀɪɴ ᴛʜᴀᴛs ɪᴛ.....!\n\n ᴅᴇᴠᴇʟᴏᴘᴇᴅ ʙʏ <a href=https://t.me/Lucifer_x0o>ᴀʙʀᴀʜᴀᴍ™</a></b>"
+HELP_TXT = "<b>ᴛʜɪs ɪs ᴀɴ ғɪʟᴇ ᴛᴏ ʟɪɴᴋ ʙᴏᴛ ᴡᴏʀᴋ ғᴏʀ @Anime_Flix_Network\n\n❏ 𝐁ᴏᴛ 𝐂ᴏᴍᴍᴀɴᴅs\n├/start : sᴛᴀʀᴛ ᴛʜᴇ ʙᴏᴛ\n├/about : ᴏᴜʀ Iɴғᴏʀᴍᴀᴛɪᴏɴ\n└/help : ʜᴇʟᴘ ʀᴇʟᴀᴛᴇᴅ ʙᴏᴛ\n\n sɪᴍᴘʟʏ ᴄʟɪᴄᴋ ᴏɴ ʟɪɴᴋ ᴀɴᴅ sᴛᴀʀᴛ ᴛʜᴇ ʙᴏᴛ ᴊᴏɪɴ ʙᴏᴛʜ ᴄʜᴀɴɴᴇʟs ᴀɴᴅ ᴛʀʏ ᴀɢᴀɪɴ ᴛʜᴀᴛs ɪᴛ.....!\n\n 𝐃ᴇᴠᴇʟᴏᴘᴇᴅ 𝐁ʏ <a href=https://t.me/Lucifer_x0o>ᴀʙʀᴀʜᴀᴍ™</a></b>"
 ABOUT_TXT = "<b>◈ 𝐂ʀᴇᴀᴛᴇʀ: <a href=https://t.me/Lucifer_x0o>ᴀʙʀᴀʜᴀᴍ™</a>\n◈ 𝐅ᴏᴜɴᴅᴇʀ 𝐎ғ : <a href=https://t.me/Anime_Flix_Network>ᴀɴɪᴍᴇ ꜰʟɪx ɴᴇᴛᴡᴏʀᴋ</a>\n◈ 𝐇ᴇɴᴛᴀɪ 𝐂ʜᴀɴɴᴇʟ : <a href=https://t.me/Hentaii_flix>ʜᴇɴᴛᴀɪ ꜰʟɪx</a>\n◈ 𝐉ᴀᴠ 𝐂ʜᴀɴɴᴇʟ : <a href=https://t.me/+R9dkukBD1604MWQ1>ᴊᴀᴘᴀɴᴇꜱᴇ-ꜰʟɪx</a>\n◈ 𝐃ᴇᴠᴇʟᴏᴘᴇᴅ 𝐁ʏ : <a href=https://t.me/Lucifer_x0o>ᴀʙʀᴀʜᴀᴍ™</a></b>"
 START_MSG = os.environ.get("START_MESSAGE", "<b>👋 𝐇ɪ 𝐃ᴜᴅᴇ! 😎 {first}\n\nɪ’ᴍ ʏᴏᴜʀ ꜰɪʟᴇ ꜱʜᴀʀᴇ ʙᴏᴛ! 📁✨\nʏᴏᴜ ᴄᴀɴ ᴀᴄᴄᴇꜱꜱ ꜰɪʟᴇꜱ ᴛʜʀᴏᴜɢʜ ᴀ ꜱᴘᴇᴄɪꜰɪᴄ ʟɪɴᴋ❗\n\n𝐃ᴇᴠᴇʟᴏᴘᴇᴅ 𝐁ʏ : <a href=https://t.me/Lucifer_x0o>𝐀ʙʀᴀʜᴀᴍ™</a></b>")
 try:
